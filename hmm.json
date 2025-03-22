@@ -3,8 +3,7 @@
     {
       "name": "lime",
       "type": "git",
-      "dir": null,
-      "ref": "develop",
+      "ref": "main",
       "url": "https://github.com/mcagabe19-stuff/lime"
     },
     {
@@ -87,13 +86,6 @@
       "dir": null,
       "ref": "dev",
       "url": "https://github.com/ShadowMario/flxanimate.git"
-    },
-    {
-      "name": "extension-androidtools",
-      "type": "git",
-      "dir": null,
-      "ref": "SAF",
-      "url": "https://github.com/MobilePorting/extension-androidtools.git"
     }
   ]
 }
