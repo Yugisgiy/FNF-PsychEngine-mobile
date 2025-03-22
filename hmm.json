@@ -32,6 +32,11 @@
       "version": "2.5.0"
     },
     {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": "2.4.0"
+    },
+    {
       "name": "hxcpp",
       "type": "git",
       "dir": null,
@@ -47,13 +52,6 @@
       "name": "hxvlc",
       "type": "haxelib",
       "version": null
-    },
-    {
-      "name": "SScript",
-      "type": "haxelib",
-      "version": null,
-      "ref": "main",
-      "url": "https://github.com/MobilePorting/SScript-7.7.0"
     },
     {
       "name": "hxcpp-debug-server",
