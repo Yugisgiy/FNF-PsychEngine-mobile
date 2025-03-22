@@ -11,8 +11,8 @@ import psychlua.FunkinLua;
 
 #if HSCRIPT_ALLOWED
 import tea.hscript;
-class HScript extends hscript
-{
+class HScript extends hscript {
+
 	public var modFolder:String;
 
 	#if LUA_ALLOWED
